@@ -1,0 +1,1 @@
+Takes a picture of your screen when you press the red button, after 5 seconds. I Basically used Qt for the user friendly interface and the mss module for the main method.
